@@ -117,7 +117,7 @@ public class StudentManagementSystem {
                      System.out.println("Please type numbers only!");
                  } 
                  else {
-                     System.out.println("❌ Message: " + e.getMessage());
+                     System.out.println("Message: " + e.getMessage());
                  }
                  sc.nextLine(); 
                  choice = 0;    
