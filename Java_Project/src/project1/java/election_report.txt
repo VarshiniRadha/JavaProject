@@ -2,20 +2,20 @@
           SSV COLLEGE OFFICIAL ELECTION REPORT      
 ========================================================================================================
 
-🏆 ELECTION WINNER:
+ELECTION WINNER:
 Candidate Name : Bala
 Candidate ID   : ECE-103
-Total Votes    : 1 votes
+Total Votes    : 5 votes
 
-🥈 ELECTION RUNNER-UP:
+ELECTION RUNNER-UP:
 Candidate Name : Jeeva
 Candidate ID   : IT-119
-Total Votes    : 0 votes
+Total Votes    : 4 votes
 
 
-📊 MASTER INVETORY LIVE BREAKDOWN:
+TOTAL SUMMARY:
 ----------------------------------------------------
-• Jeeva (IT-119) -> Polled: 0 votes
-• Jeni (IT-105) -> Polled: 0 votes
-• Bala (ECE-103) -> Polled: 1 votes
+• Jeeva (IT-119) -> Polled: 4 votes
+• Jeni (IT-105) -> Polled: 3 votes
+• Bala (ECE-103) -> Polled: 5 votes
 ----------------------------------------------------
