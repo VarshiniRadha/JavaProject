@@ -231,18 +231,18 @@ public class OnlineVotingSystem {
             writer.write("          SSV COLLEGE OFFICIAL ELECTION REPORT      \n");
             writer.write("========================================================================================================\n\n");
             
-            writer.write("🏆 ELECTION WINNER:\n");
+            writer.write("ELECTION WINNER:\n");
             writer.write("Candidate Name : " + winnerName + "\n");
             writer.write("Candidate ID   : " + winner.getKey() + "\n");
             writer.write("Total Votes    : " + winner.getValue() + " votes\n\n");
             
-            writer.write("🥈 ELECTION RUNNER-UP:\n");
+            writer.write("ELECTION RUNNER-UP:\n");
             writer.write("Candidate Name : " + runnerName + "\n");
             writer.write("Candidate ID   : " + runner.getKey() + "\n");
             writer.write("Total Votes    : " + runner.getValue() + " votes\n\n\n");
             
             
-            writer.write("📊 MASTER INVETORY LIVE BREAKDOWN:\n");
+            writer.write("TOTAL SUMMARY:\n");
             writer.write("----------------------------------------------------\n");
             for (Map.Entry<String, Integer> entry : votesCount.entrySet()) {
                 String name = candidates.get(entry.getKey());
