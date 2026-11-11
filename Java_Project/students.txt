@@ -1,0 +1,3 @@
+101 | Varshini R | varshini@gmail.com | it-152 | 93.00 | 2 | ACTIVE | Information Technolody 
+102 | Aishu | aishu76@gmail.com | ece-4856 | 96.00 | 0 | ACTIVE | Circuits
+103 | Rahul L | rahull546@gmail.com | it-452 | 97.00 | 3 | ACTIVE | Database 

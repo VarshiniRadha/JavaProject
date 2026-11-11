@@ -1,0 +1,3 @@
+ECE-103,Bala
+IT-105,Jeni
+IT-119,Jeeva
